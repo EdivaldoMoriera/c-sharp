@@ -1,0 +1,15 @@
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.csproj.AssemblyReference.cache
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.AssemblyInfoInputs.cache
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.AssemblyInfo.cs
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.csproj.CoreCompileInputs.cache
+D:\C#\salarioFuncionario\bin\Debug\net7.0\salarioFuncionario.exe
+D:\C#\salarioFuncionario\bin\Debug\net7.0\salarioFuncionario.deps.json
+D:\C#\salarioFuncionario\bin\Debug\net7.0\salarioFuncionario.runtimeconfig.json
+D:\C#\salarioFuncionario\bin\Debug\net7.0\salarioFuncionario.dll
+D:\C#\salarioFuncionario\bin\Debug\net7.0\salarioFuncionario.pdb
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.dll
+D:\C#\salarioFuncionario\obj\Debug\net7.0\refint\salarioFuncionario.dll
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.pdb
+D:\C#\salarioFuncionario\obj\Debug\net7.0\salarioFuncionario.genruntimeconfig.cache
+D:\C#\salarioFuncionario\obj\Debug\net7.0\ref\salarioFuncionario.dll

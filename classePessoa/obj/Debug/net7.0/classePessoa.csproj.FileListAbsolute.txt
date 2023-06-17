@@ -1,0 +1,15 @@
+D:\C#\classePessoa\bin\Debug\net7.0\classePessoa.exe
+D:\C#\classePessoa\bin\Debug\net7.0\classePessoa.deps.json
+D:\C#\classePessoa\bin\Debug\net7.0\classePessoa.runtimeconfig.json
+D:\C#\classePessoa\bin\Debug\net7.0\classePessoa.dll
+D:\C#\classePessoa\bin\Debug\net7.0\classePessoa.pdb
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.csproj.AssemblyReference.cache
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.AssemblyInfoInputs.cache
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.AssemblyInfo.cs
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.csproj.CoreCompileInputs.cache
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.dll
+D:\C#\classePessoa\obj\Debug\net7.0\refint\classePessoa.dll
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.pdb
+D:\C#\classePessoa\obj\Debug\net7.0\classePessoa.genruntimeconfig.cache
+D:\C#\classePessoa\obj\Debug\net7.0\ref\classePessoa.dll
