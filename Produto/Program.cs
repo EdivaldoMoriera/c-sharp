@@ -19,10 +19,17 @@ namespace Produto // Note: actual namespace depends on the project name.
             Console.WriteLine("Dados do Produto " + p.ToString());
 
             Console.WriteLine();
-            Console.Write("digite a quantidade de produtos a ser adicionado ao estoque");
+            Console.Write("digite a quantidade de produtos a ser adicionado ao estoque: ");
            int qte = Convert.ToInt32(Console.ReadLine());
            p.AdicionarProdutos(qte);
 
+           Console.WriteLine("Dados atualizados: "+ p);
+
+
+           Console.Write("digite a quantidade de produtos a ser removida do estoque: ");
+            qte = Convert.ToInt32(Console.ReadLine());//não é nescessario p.ToString somente p
+           p.RemoverProdutos(qte);
+           Console.WriteLine();
            Console.WriteLine("Dados atualizados: "+ p);
 
 
