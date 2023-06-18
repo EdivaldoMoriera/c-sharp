@@ -1,0 +1,5 @@
+D:\C#\retangulo\obj\Debug\net7.0\retangulo.csproj.AssemblyReference.cache
+D:\C#\retangulo\obj\Debug\net7.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\retangulo\obj\Debug\net7.0\retangulo.AssemblyInfoInputs.cache
+D:\C#\retangulo\obj\Debug\net7.0\retangulo.AssemblyInfo.cs
+D:\C#\retangulo\obj\Debug\net7.0\retangulo.csproj.CoreCompileInputs.cache
