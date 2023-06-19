@@ -1,0 +1,15 @@
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.csproj.AssemblyReference.cache
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.AssemblyInfoInputs.cache
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.AssemblyInfo.cs
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.csproj.CoreCompileInputs.cache
+D:\C#\contaBancaria\bin\Debug\net7.0\contaBancaria.exe
+D:\C#\contaBancaria\bin\Debug\net7.0\contaBancaria.deps.json
+D:\C#\contaBancaria\bin\Debug\net7.0\contaBancaria.runtimeconfig.json
+D:\C#\contaBancaria\bin\Debug\net7.0\contaBancaria.dll
+D:\C#\contaBancaria\bin\Debug\net7.0\contaBancaria.pdb
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.dll
+D:\C#\contaBancaria\obj\Debug\net7.0\refint\contaBancaria.dll
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.pdb
+D:\C#\contaBancaria\obj\Debug\net7.0\contaBancaria.genruntimeconfig.cache
+D:\C#\contaBancaria\obj\Debug\net7.0\ref\contaBancaria.dll
